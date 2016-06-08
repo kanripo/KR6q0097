@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:15.117987
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:04
 #+TITLE: 高麗國普照禪師修心訣
 #+PROPERTY: CBETA_ID T48n2020
 #+PROPERTY: ID KR6q0097
